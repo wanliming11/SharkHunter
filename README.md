@@ -1,2 +1,3 @@
 # SharkHunter
-Manage all kind of  downloading resource, and support custom strategy.
+
+A description of this package.
